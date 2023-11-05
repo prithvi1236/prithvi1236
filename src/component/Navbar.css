@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    align-items: center;
+    padding: 1rem 2rem;
+    margin: 0;
+    width: 100vw;
+    box-shadow: 1px 1px 5px 1px red;
+    background-color: goldenrod;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+    align-items: center;
+    margin-left: 55rem;
+    color: white;
+}
+a, a:link, a:visited {
+    color:rgb(29, 75, 155);
+    text-decoration: none;
+  }
